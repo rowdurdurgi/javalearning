@@ -5,7 +5,7 @@ public class Chapter1 {
        
         PrimeNumber primechecker = new PrimeNumber(5);
         System.out.println ( primechecker.isprime());
-        System.out.println("Hellow");
+        System.out.println("Hellow from Jahnavi");
        
     }
 
