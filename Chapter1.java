@@ -2,8 +2,10 @@ public class Chapter1 {
 
     public static void main(String[] args) {
 
-        System.out.println (" Hellow World");
-
+       
+        PrimeNumber primechecker = new PrimeNumber(5);
+        System.out.println ( primechecker.isprime());
+       
     }
 
     
